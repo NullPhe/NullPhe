@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @NullPhe
+
+- 👋 Hi, I’m Phoenix, and I'm a trainee software engineer
 - 👀 I’m interested in video games, photography, digital privacy, intersectional feminism and more!
-- 🌱 I’m currently learning python & becoming a software engineer.
-- 💞️ I’m looking to collaborate on python & circit python projects!
+- 🌱 I’m currently learning microservices, java fundamentals, all things SpringBoot and building on my python knowledge.
+- 💞️ I’m looking to collaborate on circit python projects, wearable tech and art!
 - 📫 Email: phoenixnull@outlook.com
 
 <!---
