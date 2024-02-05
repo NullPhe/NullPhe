@@ -1,8 +1,8 @@
 
-- 👋 Hi, I’m Phoenix, and I'm a trainee software engineer
+- 👋 Hi, I’m Phoenix, and I'm a software engineer
 - 👀 I’m interested in video games, photography, digital privacy, intersectional feminism and more!
-- 🌱 I’m currently learning microservices, java fundamentals, all things SpringBoot and building on my python knowledge.
-- 💞️ I’m looking to collaborate on circit python projects, wearable tech and art!
+- 🌱 I’m currently developing microservices, and always learning more java, SpringBoot and building on my programming knowledge.
+- 💞️ I’m interested in collaborations on circit python projects, wearable tech and art!
 - 📫 Email: phoenixnull@outlook.com
 
 <!---
